@@ -1,3 +1,6 @@
+import sys, os
+sys.path.append(os.pardir)
+
 import pickle
 import numpy as np
 from collections import OrderedDict
